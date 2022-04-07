@@ -1,0 +1,9 @@
+h1 {color
+:royalblue}
+p{color:powderblue}
+h2{color: red;}
+p2{color: brown;}
+h1{font-style: italic;}
+p{font-style: initial;}
+h2{font-style: inherit;}
+p2{font-style: unset;}
